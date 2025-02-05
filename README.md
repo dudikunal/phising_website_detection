@@ -28,7 +28,7 @@ Follow these steps to run the **Not So Phishy** project:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/akshubawa/NotSoPhishy.git
+   git clone https://github.com/dudikunal/phising_website_detection.git
    ```
 
 2. Navigate to the project directory:
