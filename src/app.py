@@ -7,6 +7,7 @@ import requests
 import main as m
 app = Flask(__name__,static_folder="C:\\Users\\akshu\\Desktop\\NotSoPhishyNew\\static", template_folder="C:\\Users\\akshu\\Desktop\\NotSoPhishyNew\\templates")
 
+# Analyse Function
 def analyze_url(url):
     if url == "https://www.google.com/" or url == "https://www.youtube.com/" or url == "https://www.amazon.in/":
         time.sleep(2)
